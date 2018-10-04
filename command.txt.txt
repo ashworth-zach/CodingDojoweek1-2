@@ -1,0 +1,10 @@
+cat command.txt
+mkdir 
+ls
+pwd
+rm -rf
+rm
+cp 
+mv ../
+cd 
+nano

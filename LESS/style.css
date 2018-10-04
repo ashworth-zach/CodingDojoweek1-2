@@ -1,0 +1,14 @@
+body {
+  color: black;
+}
+body .navigation {
+  font-size: 12px;
+}
+body .logo {
+  width: 300px;
+}
+.class {
+  width: 50%;
+  color: #f6430f;
+  background-color: #f8b38d;
+}
